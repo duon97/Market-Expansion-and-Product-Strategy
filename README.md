@@ -86,7 +86,6 @@ Self-review and edit my report
 <img width="1157" height="652" alt="image" src="https://github.com/user-attachments/assets/8fe9682c-5bdf-46fe-b44f-8255681ad2d9" />
 
 ## IV. INSIGHT AND RECOMENDATION
-# Business Performance Analysis with Power BI
 
 ## 📊 Hiệu suất kinh doanh tổng thể
 - **Tín hiệu tích cực**
