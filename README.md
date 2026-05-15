@@ -86,112 +86,71 @@ Self-review and edit my report
 <img width="1157" height="652" alt="image" src="https://github.com/user-attachments/assets/8fe9682c-5bdf-46fe-b44f-8255681ad2d9" />
 
 ## IV. INSIGHT AND RECOMENDATION
-#### 1. Hiệu suất kinh doanh tổng thể
+# Business Performance Analysis with Power BI
 
-Tín hiệu tích cực
-Revenue tăng 51.5% YoY: 8.34M → 12.64M
-Profit tăng 52.3%: 963K → 1.47M
-Customer tăng nhẹ: 1575 → 1590
-→ Công ty đang tăng trưởng mạnh, đồng thời khách hàng hiện tại có xu hướng chi tiêu nhiều hơn.
-Vấn đề cần chú ý
-Revenue tăng mạnh nhưng Margin chỉ tăng 0.1%
-Doanh thu tăng nhanh nhưng lợi nhuận không cải thiện tương ứng, cho thấy discount và chi phí có thể đang tăng theo doanh thu.
-Đề xuất
-KPI Sales:
-60% Profit
-40% Revenue
-Loại bỏ cơ chế thưởng chỉ dựa trên Revenue
-Thiết lập Profit Floor = 8% cho mọi đơn hàng
-Các deal dưới 8% cần được Regional Manager phê duyệt
-Rủi ro khách hàng
-Customer chỉ tăng 15 khách nhưng Revenue tăng gần gấp đôi
-Điều này cho thấy doanh thu có thể đang phụ thuộc vào một vài khách hàng lớn.
-Đề xuất
-Mở rộng customer base song song với mở rộng thị trường
-Giảm phụ thuộc vào 2–3 key accounts lớn
+## 📊 Hiệu suất kinh doanh tổng thể
+- **Tín hiệu tích cực**
+  - Revenue tăng 51.5% YoY: 8.34M → 12.64M
+  - Profit tăng 52.3%: 963K → 1.47M
+  - Customer tăng nhẹ: 1575 → 1590
+  - → Công ty tăng trưởng mạnh, khách hàng hiện tại chi tiêu nhiều hơn
+- **Vấn đề cần chú ý**
+  - Revenue tăng mạnh nhưng Margin chỉ tăng 0.1%
+  - Lợi nhuận không cải thiện tương ứng → discount & chi phí tăng theo doanh thu
+- **Đề xuất**
+  - KPI Sales: 60% Profit, 40% Revenue
+  - Loại bỏ thưởng chỉ dựa trên Revenue
+  - Thiết lập Profit Floor = 8% cho mọi đơn hàng
+  - Deal dưới 8% cần Regional Manager phê duyệt
+- **Rủi ro khách hàng**
+  - Customer chỉ tăng 15 nhưng Revenue gần gấp đôi
+  - → Doanh thu phụ thuộc vào vài khách hàng lớn
+- **Đề xuất**
+  - Mở rộng customer base song song mở rộng thị trường
+  - Giảm phụ thuộc vào 2–3 key accounts lớn
 
-#### 2. Thị trường & sản phẩm nên mở rộng
+---
 
-Africa — Thị trường tiềm năng chưa khai thác
-Hiệu suất
-Revenue: $784K
-Margin: 11.34%
-Return Rate: 0%
-Đề xuất
-Tăng đầu tư và mở rộng hiện diện thị trường
-Đẩy mạnh sales tại các phân khúc đang tăng trưởng tốt
-Canada — Thị trường chất lượng cao
-Hiệu suất
-Margin: 26.62%
-Chỉ mới 201 orders
-Đề xuất
-Tăng ngân sách marketing và sales
-Scale thị trường để tận dụng margin cao
-Copiers — Sub-category chiến lược
-Hiệu suất
-Profit và Margin cao nhất trong các sub-category
-Đề xuất
-Đẩy mạnh bán tại EU và Canada
-Tăng inventory cho các market có margin tốt
-Phones — Revenue cao nhưng margin thấp
-Vấn đề
-Revenue dẫn đầu nhưng margin mỏng, khả năng cao do discount quá sâu.
-Đề xuất
-Đo lường tác động của discount đến margin
-Giảm discount để tối ưu lợi nhuận
+## 🌍 Thị trường & sản phẩm nên mở rộng
+- **Africa**
+  - Revenue: $784K, Margin: 11.34%, Return Rate: 0%
+  - → Tăng đầu tư, mở rộng hiện diện, đẩy mạnh sales
+- **Canada**
+  - Margin: 26.62%, chỉ 201 orders
+  - → Tăng ngân sách marketing & sales, scale thị trường
+- **Copiers (Sub-category)**
+  - Profit & Margin cao nhất
+  - → Đẩy mạnh bán tại EU & Canada, tăng inventory
+- **Phones**
+  - Revenue cao nhưng margin thấp (discount sâu)
+  - → Đo lường tác động discount, giảm discount để tối ưu lợi nhuận
 
-#### 3. Tối ưu các thị trường hiện tại
+---
 
-APAC — Thị trường hoạt động tốt nhất
-Hiệu suất
-Market có hiệu quả tổng thể cao nhất
-Technology và Furniture đều tạo hơn 1.3M revenue
-Return Rate khoảng 6–7%
-Đề xuất
-Tiếp tục duy trì chiến lược hiện tại
-Tăng đầu tư vào Technology và Furniture
-Giảm nhẹ return rate để cải thiện profit margin
-EU — Thị trường tăng trưởng ổn định
-Hiệu suất
-Revenue khoảng 3M
-Profit Margin: 10–13%
-YoY Growth khoảng 55%
-Return Rate ổn định: 6–6.8%
-Đề xuất
-Mở rộng Technology và Office Supplies
-Duy trì chất lượng sản phẩm
-Không cần tăng discount để bảo vệ margin
-US — Thị trường lợi nhuận tốt
-Hiệu suất
-Profitability cao nhưng còn dư địa tăng revenue
-Đề xuất
-Mở rộng danh mục sản phẩm
-Tăng đầu tư marketing và sales
-LATAM — Tăng trưởng cao nhưng margin thấp
-Vấn đề
-Doanh thu tăng tốt nhưng profitability chưa cao.
-Đề xuất
-Kiểm soát chi phí chặt hơn
-Tăng AOV (Average Order Value)
-Đầu tư thận trọng để tránh ảnh hưởng margin
-Africa & EMEA — Thị trường underperform
-Vấn đề
-Có lượng customer cao nhưng tổng profit âm.
-Đề xuất
-Điều tra nguyên nhân gây lỗ:
-Discount quá cao
-Logistics cost
-Return rate
-Product mix
-Xây dựng chiến lược cải thiện hoặc cân nhắc rút khỏi thị trường
+## 📈 Tối ưu các thị trường hiện tại
+- **APAC**
+  - Revenue >1.3M cho Technology & Furniture, Return Rate 6–7%
+  - → Duy trì chiến lược, tăng đầu tư, giảm return rate
+- **EU**
+  - Revenue ~3M, Margin 10–13%, Growth ~55%, Return Rate 6–6.8%
+  - → Mở rộng Technology & Office Supplies, giữ chất lượng, không tăng discount
+- **US**
+  - Profitability cao, dư địa tăng revenue
+  - → Mở rộng danh mục sản phẩm, tăng marketing & sales
+- **LATAM**
+  - Revenue tăng, margin thấp
+  - → Kiểm soát chi phí, tăng AOV, đầu tư thận trọng
+- **Africa & EMEA**
+  - Customer cao nhưng profit âm
+  - → Điều tra nguyên nhân (discount, logistics, return, product mix), cải thiện hoặc rút khỏi thị trường
 
-#### 4. Sản phẩm cần tối ưu
+---
 
-Tables — Hiệu suất kém
-Vấn đề
-Profit margin âm liên tục trong 4 năm, đồng nghĩa công ty đang lỗ trên mỗi đơn bán.
-Đề xuất
-Cân nhắc discontinue sản phẩm
+## 🛠️ Sản phẩm cần tối ưu
+- **Tables**
+  - Profit margin âm liên tục 4 năm → công ty lỗ trên mỗi đơn
+  - → Cân nhắc discontinue sản phẩm
+
 Hoặc điều chỉnh pricing strategy
 
 
