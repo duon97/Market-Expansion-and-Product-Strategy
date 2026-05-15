@@ -50,7 +50,6 @@ Use Power BI to analyze business data to find new market opportunities, and find
 ## STEP 1: Empathyze (Thấu cảm)
 
 <img width="1277" height="537" alt="image" src="https://github.com/user-attachments/assets/28b3a22a-9290-4c91-8529-0e2c7e7ff34e" />
-<img width="756" height="598" alt="image" src="https://github.com/user-attachments/assets/ee405424-b44e-4376-a45c-9fbea2407517" />
 <img width="1176" height="641" alt="image" src="https://github.com/user-attachments/assets/a526f7c9-8126-43d2-99b0-4060979fc7e4" />
 
 ## STEP 2: Define POV (Nhìn sâu)
